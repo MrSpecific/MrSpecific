@@ -1,4 +1,5 @@
-### Hi there 👋
+### :floppy_disk: Will Christenson
+:wave: I'm a full-stack developer living in Portland, Oregon.
 
 <!--
 **MrSpecific/MrSpecific** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
