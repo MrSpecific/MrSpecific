@@ -1,7 +1,7 @@
 ### :floppy_disk: Will Christenson
 :wave: I'm a full-stack web developer living in Portland, Oregon.
 
-I am fluent in a variety of modern web languages and patterns, including HTML5, CSS, and ES6+. I currently focus on fully custom themes for Wordpress and Shopify, as well as static sites and microservices.
+I am fluent in a variety of modern web languages and patterns, including HTML5, CSS, and ES6+ as well as React, PostCSS, and more. I currently focus on static sites, fully custom themes for Wordpress and Shopify, as well as microservices to support those sites.
 
 
 <!--
