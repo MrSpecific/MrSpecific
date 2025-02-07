@@ -1,8 +1,8 @@
 ### :floppy_disk: Will Christenson
 :wave: I am a Tech Director and Full-Stack Engineer living in Portland, Oregon.
 
-I am fluent in modern web languages and patterns, including React, Next.js, Node.js, HTML5, CSS, and ES6+ as well as PostCSS and more. 
-Currently, I manage a team of passionate and skilled engineers at (WLCR.io)[https://wlcr.io] that build innovative e-commerce solutions, apps, and services.
+I am fluent in modern web languages and patterns, including React, Next.js, Node.js, HTML5, CSS, and ES6+ as well as A.I., LLMs, and more. 
+Currently, I manage a team of passionate and skilled engineers at [WLCR.io](https://wlcr.io) who build innovative e-commerce solutions, apps, and services. We work with companies ranging from startups and nonprofits to Fortune 500 companies.
 
 [My NPM Packages](https://www.npmjs.com/~mrspecific)
 
