@@ -1,7 +1,8 @@
 ### :floppy_disk: Will Christenson
-:wave: I'm a full-stack web developer living in Portland, Oregon.
+:wave: I am a Tech Director and Full-Stack Engineer living in Portland, Oregon.
 
-I am fluent in a variety of modern web languages and patterns, including HTML5, CSS, and ES6+ as well as React, PostCSS, and more. I currently focus on static sites, fully custom themes for Wordpress and Shopify, as well as microservices and APIs to support those sites.
+I am fluent in modern web languages and patterns, including React, Next.js, Node.js, HTML5, CSS, and ES6+ as well as PostCSS and more. 
+Currently, I manage a team of passionate and skilled engineers at (WLCR.io)[https://wlcr.io] that build innovative e-commerce solutions, apps, and services.
 
 [My NPM Packages](https://www.npmjs.com/~mrspecific)
 
